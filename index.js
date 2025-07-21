@@ -2,8 +2,8 @@
 const profile = {
     description: "Это мой личный сайт на GitHub",
     logo_img: "./public/logo.png",
-    name: "Artpupser",
-    title: "Artpupser links",
+    name: "Hurmaria",
+    title: "Hurmaria links",
     links: [
         {
             name: "youtube",
