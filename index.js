@@ -6,19 +6,14 @@ const profile = {
     title: "Artpupser links",
     links: [
         {
-            name: "github",
-            href: "https://github.com/Artpupser",
-            src: "./public/github.svg"
-        },
-        {
             name: "youtube",
-            href: "https://www.youtube.com/@artpupser",
+            href: "https://www.youtube.com/@hurmaria",
             src: "./public/youtube.svg"
         },
         {
-            name: "youtube",
-            href: "https://vk.com/artpupser_channel",
-            src: "./public/vk.svg"
+            name: "twitch",
+            href: "https://www.twitch.tv/hurmaria",
+            src: "./public/twitch.svg"
         }
     ]
 }
